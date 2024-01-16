@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @leoelias12
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python, Git and Github
-- 💞️ I’m looking to collaborate on Python codes
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Python projects
+- 📫 How to reach me: leonardo.felias@hotmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
